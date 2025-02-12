@@ -1,0 +1,7 @@
+Test_4
+==================
+
+.. automodule:: test_4
+   :members:
+   :undoc-members:
+   :show-inheritance:
